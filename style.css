@@ -1,0 +1,30 @@
+
+			.title{ 
+			margin-bottom: 10px; 
+			text-align:center; 
+			width: 210px; 
+			color:dark blue; 
+			border: solid black 2px; 
+			} 
+
+			input[type="button"] 
+			{ 
+			background-color:white; 
+			color: black; 
+			border: solid blue 2px; 
+			width:100% 
+			} 
+
+			input[type="text"] 
+			{ 
+			background-color:white; 
+			border: solid blue 2px; 
+			width:100% 
+			} 
+.container{
+text-align: center;
+width: 100%;
+}
+.inner{
+	display: inline-block;
+}
